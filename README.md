@@ -1,5 +1,4 @@
 # Book Shop Management System
-# Book Shop Management System
 
 This project is a simple Book Shop Management System implemented in Java. It allows you to manage books, their information, and perform various operations related to a book shop.
 
