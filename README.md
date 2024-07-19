@@ -25,3 +25,48 @@ The project consists of the following files:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/book-shop-management.git
+
+Navigate to the Project Directory:
+
+
+cd book-shop-management
+
+Compile the Java Files:
+
+javac *.java
+
+Run the Program
+
+    java CliProgram
+
+Usage
+Adding a Book
+
+    When prompted, enter the book details such as title, author, price, etc.
+    The book will be added to the database.
+
+Updating a Book
+
+    Enter the ID of the book you want to update.
+    Enter the new details for the book.
+    The book information will be updated in the database.
+
+Deleting a Book
+
+    Enter the ID of the book you want to delete.
+    The book will be removed from the database.
+
+Viewing All Books
+
+    Select the option to view all books.
+    A list of all books in the shop will be displayed.
+
+Searching for Books
+
+    Select the search option.
+    Enter the criteria for the search (e.g., title, author).
+    The matching books will be displayed.
+
+Contributing
+
+If you would like to contribute to this project, please fork the repository and submit a pull request.
